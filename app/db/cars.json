@@ -1,0 +1,15 @@
+{
+    "cars": [
+        {
+            "brand": "Kia",
+            "model": "Sportage",
+            "year": 2016
+        },
+        {
+            "brand": "Mazda",
+            "model": null,
+            "year": 2011
+        }
+    ]
+}
+

@@ -1,0 +1,230 @@
+{
+    "users": [
+        {
+            "_id": "616c9b6c4c5032dccae659bf",
+            "index": 0,
+            "guid": "75965f44-d79d-483a-bbb7-fdaac20b9065",
+            "isActive": true,
+            "balance": "$3,669.53",
+            "picture": "http://placehold.it/32x32",
+            "age": 25,
+            "eyeColor": "green",
+            "name": "Farley Donaldson",
+            "gender": "male",
+            "company": "IMAGEFLOW",
+            "email": "farleydonaldson@imageflow.com",
+            "phone": "+1 (964) 449-2099",
+            "address": "509 Hanover Place, Whitehaven, New Hampshire, 6678",
+            "about": "Commodo non ea non nostrud amet dolor duis sit eiusmod elit. Ipsum id laborum deserunt exercitation incididunt non aute id. Anim id sunt nostrud cillum esse dolor adipisicing consectetur duis amet excepteur proident in. Ad dolore quis cupidatat dolor duis nostrud est in aliqua consequat. Occaecat sint culpa do sit excepteur labore. Amet excepteur ipsum anim esse. Ea sit nulla irure esse eu sit amet cupidatat deserunt sint dolor do.\r\n",
+            "registered": "2020-07-23T06:53:58 -02:00",
+            "latitude": -47.22965,
+            "longitude": 127.163238,
+            "tags": [
+                "ex",
+                "anim",
+                "laborum",
+                "in",
+                "minim",
+                "adipisicing",
+                "magna"
+            ],
+            "friends": [
+                {
+                    "id": 0,
+                    "name": "Moody Reynolds"
+                },
+                {
+                    "id": 1,
+                    "name": "Gertrude Mills"
+                },
+                {
+                    "id": 2,
+                    "name": "Sonia Medina"
+                }
+            ],
+            "greeting": "Hello, Farley Donaldson! You have 1 unread messages.",
+            "favoriteFruit": "apple"
+        },
+        null,
+        {
+            "_id": "616c9b6c66637c3225caaec2",
+            "index": 2,
+            "guid": "616bfac3-9cfe-432a-bfe3-811bf2d1ef8e",
+            "isActive": false,
+            "balance": "$1,542.91",
+            "picture": "http://placehold.it/32x32",
+            "age": 39,
+            "eyeColor": "green",
+            "name": "Jean White",
+            "gender": "female",
+            "company": "PORTALINE",
+            "email": "jeanwhite@portaline.com",
+            "phone": "+1 (978) 456-3707",
+            "address": "466 Vanderveer Place, Clay, South Dakota, 8948",
+            "about": "Esse cillum Lorem proident ex dolore irure anim. Aliquip eiusmod aute ipsum quis deserunt sint anim consectetur cupidatat non sit Lorem consequat. Cupidatat et magna non commodo non nisi. Aliqua reprehenderit sit proident mollit officia. Aute qui pariatur adipisicing duis esse. Minim ut dolor commodo dolore deserunt et duis consequat do est id.\r\n",
+            "registered": "2020-08-15T04:15:08 -02:00",
+            "latitude": 77.737397,
+            "longitude": 136.914232,
+            "tags": [
+                "reprehenderit",
+                "velit",
+                "occaecat",
+                "fugiat",
+                "dolore",
+                "incididunt",
+                "laboris"
+            ],
+            "friends": [
+                {
+                    "id": 0,
+                    "name": "Michael Carver"
+                },
+                {
+                    "id": 1,
+                    "name": "Shelby Kinney"
+                },
+                {
+                    "id": 2,
+                    "name": "Alexandria Nunez"
+                }
+            ],
+            "greeting": "Hello, Jean White! You have 6 unread messages.",
+            "favoriteFruit": "strawberry"
+        },
+        {
+            "_id": "616c9b6c358b79116e7409e8",
+            "index": 3,
+            "guid": "8b01621d-2f20-43a0-a027-1da7799bf06d",
+            "isActive": false,
+            "balance": "$2,264.85",
+            "picture": "http://placehold.it/32x32",
+            "age": 33,
+            "eyeColor": "green",
+            "name": "Crawford Warren",
+            "gender": "male",
+            "company": "ZANYMAX",
+            "email": "crawfordwarren@zanymax.com",
+            "phone": "+1 (968) 410-3511",
+            "address": "422 Seba Avenue, Freetown, Vermont, 8455",
+            "about": "Non dolor aute sunt nostrud cupidatat qui quis sint do quis cillum aliquip. Dolore quis consectetur anim excepteur qui commodo duis nisi nostrud. Laboris laboris aute culpa ipsum. Enim aliquip laborum in dolor mollit consequat fugiat officia.\r\n",
+            "registered": "2014-07-27T07:21:39 -02:00",
+            "latitude": -87.583786,
+            "longitude": 168.627559,
+            "tags": [
+                "culpa",
+                "tempor",
+                "minim",
+                "ipsum",
+                "ipsum",
+                "enim",
+                "minim"
+            ],
+            "friends": [
+                {
+                    "id": 0,
+                    "name": "Chelsea Mendoza"
+                },
+                {
+                    "id": 1,
+                    "name": "Selma Jordan"
+                },
+                {
+                    "id": 2,
+                    "name": "Ericka Barron"
+                }
+            ],
+            "greeting": "Hello, Crawford Warren! You have 10 unread messages.",
+            "favoriteFruit": "apple"
+        },
+        {
+            "_id": "616c9b6c35127a80334b5792",
+            "index": 4,
+            "guid": "4c331817-db19-4bb4-a0b3-838f0f957d6b",
+            "isActive": true,
+            "balance": "$1,553.29",
+            "picture": "http://placehold.it/32x32",
+            "age": 39,
+            "eyeColor": "brown",
+            "name": "Zelma Sutton",
+            "gender": "female",
+            "company": "GEEKOLA",
+            "email": "zelmasutton@geekola.com",
+            "phone": "+1 (931) 452-3803",
+            "address": "606 Bridge Street, Coloma, Guam, 149",
+            "about": "Consectetur ea velit esse nulla dolore consequat reprehenderit cillum commodo qui id. Nisi tempor ea quis minim. Excepteur esse dolor esse cillum voluptate adipisicing id proident. Et id esse voluptate et amet Lorem amet consectetur nostrud duis ea.\r\n",
+            "registered": "2019-09-27T08:25:00 -02:00",
+            "latitude": 74.898908,
+            "longitude": -36.39023,
+            "tags": [
+                "exercitation",
+                "proident",
+                "dolor",
+                "qui",
+                "nulla",
+                "sint",
+                "sit"
+            ],
+            "friends": [
+                {
+                    "id": 0,
+                    "name": "Reyna Ingram"
+                },
+                {
+                    "id": 1,
+                    "name": "Middleton Gaines"
+                },
+                {
+                    "id": 2,
+                    "name": "Bradley Kirkland"
+                }
+            ],
+            "greeting": "Hello, Zelma Sutton! You have 5 unread messages.",
+            "favoriteFruit": "strawberry"
+        },
+        {
+            "_id": "616c9b6cb950ae51f5d7130c",
+            "index": 5,
+            "guid": "1ea5bd92-6cdf-4425-9e7b-d02b4c70cfb9",
+            "isActive": false,
+            "balance": "$2,833.64",
+            "picture": "http://placehold.it/32x32",
+            "age": 26,
+            "eyeColor": "brown",
+            "name": "Liz Prince",
+            "gender": "female",
+            "company": "EARTHPLEX",
+            "email": "lizprince@earthplex.com",
+            "phone": "+1 (992) 565-3703",
+            "address": "443 Nixon Court, Sabillasville, West Virginia, 6293",
+            "about": "Ut duis ex excepteur esse enim minim do ad aute qui et nisi. Anim reprehenderit aute veniam cupidatat cillum veniam cupidatat anim occaecat nisi ad ut irure ea. Et ad sunt voluptate ullamco labore reprehenderit consectetur sunt fugiat et minim pariatur aliquip non. Adipisicing duis mollit non velit occaecat culpa labore ipsum. Laborum ad commodo ea enim amet magna. Ad culpa do ad et nostrud culpa eiusmod exercitation culpa consectetur qui.\r\n",
+            "registered": "2017-08-20T09:00:54 -02:00",
+            "latitude": -53.057323,
+            "longitude": 67.459999,
+            "tags": [
+                "velit",
+                "pariatur",
+                "laborum",
+                "eiusmod",
+                "reprehenderit",
+                "minim",
+                "pariatur"
+            ],
+            "friends": [
+                {
+                    "id": 0,
+                    "name": "Herrera Oneill"
+                },
+                {
+                    "id": 1,
+                    "name": "Macdonald Harvey"
+                },
+                {
+                    "id": 2,
+                    "name": "Wright Marquez"
+                }
+            ],
+            "greeting": "Hello, Liz Prince! You have 6 unread messages.",
+            "favoriteFruit": "strawberry"
+        }
+    ]
+}
