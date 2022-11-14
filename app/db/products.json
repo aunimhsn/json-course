@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Lightbulb",
+        "price": 3.79,
+        "rate": 4
+    },
+    {
+        "id": 2,
+        "name": "Knife",
+        "price": 8.52,
+        "rate": 3.8
+    },
+    {
+        "id": 3,
+        "name": "Mug",
+        "price": 9.99,
+        "rate": 4.2
+    },
+    {
+        "id": 4,
+        "name": "Pen",
+        "price": 15.23,
+        "rate": 4.7
+    },
+    {
+        "id": 5,
+        "name": "Sweatshirt",
+        "price": 26.51,
+        "rate": 4.6
+    }
+]
