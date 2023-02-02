@@ -23,7 +23,7 @@ fs.readFile('../../db/weather.json', (err, data) => {
 
     // 4. Ajouter dans "main" la température en Celsius.
     // https://stackoverflow.com/questions/11832914/how-to-round-to-at-most-2-decimal-places-if-necessary
-    let absoluteZero = -273.15
+    const ABSOLUTE_ZERO = -273.15
 
     let celsiusTemp = Math.round((weatherData.main.temp + absoluteZero) * 100) / 100
     weatherData.main.celsius_temp = celsiusTemp
